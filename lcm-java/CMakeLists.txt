@@ -1,3 +1,5 @@
+message(FATAL_ERROR "muahahahahaha")
+
 include(UseJava)
 
 set(LCM_JAVA_TARGET_VERSION "1.8" CACHE STRING
